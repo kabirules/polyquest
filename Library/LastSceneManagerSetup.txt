@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Polyquest Worlds Full Pack Vol.1/scenes/Vista_scenes/Vista_desert_cave.unity
+  isLoaded: 1
+  isActive: 1
